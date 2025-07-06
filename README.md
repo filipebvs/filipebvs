@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filipe Barbosa</h1>
 <h3 align="center">A passionate about science and data analysis</h3>
 
-- 🔭 I’m currently working on the Applied Data Science Laboratory at World Quantum University [Applied Data Science Lab](https://www.wqu.edu/adsl-apply(https://www.wqu.edu/adsl))
+- 🔭 I’m currently working on the Applied Data Science Laboratory at World Quantum University [Applied Data Science Lab](https://www.wqu.edu/adsl-apply)
 
 - 🌱 I’m currently learning **Python, Machine Learning and Data Visualization**
 
